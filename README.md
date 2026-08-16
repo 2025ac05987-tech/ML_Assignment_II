@@ -32,7 +32,7 @@ their credit card payment next month (`1` = default, `0` = no default).
 ## c. GitHub Repository Link
 
 <!-- Replace with your actual repo URL after you push -->
-`https://github.com/<your-username>/<your-repo-name>`
+`https://github.com/2025ac05987-tech/ML_Assignment_II`
 
 ## d. Models Used
 
