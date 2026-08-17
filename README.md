@@ -89,17 +89,9 @@ project-folder/
 │-- ML_Assignment2_Model_Training.ipynb   # Full training pipeline (run in Colab)
 ```
 
-## How to Run Locally
-
-```bash
-pip install -r requirements.txt
-streamlit run app.py
-```
-
 ## Live App
 
-<!-- Add your deployed Streamlit Community Cloud link here -->
-`https://<your-app-name>.streamlit.app`
+`https://mlassignmentii-nagz6bvo59lu9euu2qzpkm.streamlit.app/`
 
 ## BITS Virtual Lab Screenshot
 
