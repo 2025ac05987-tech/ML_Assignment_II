@@ -67,32 +67,11 @@ multiple metrics — not just accuracy — matters for this kind of imbalanced p
 
 ---
 
-## Project Structure
-
-```
-project-folder/
-│-- app.py                  # Streamlit app
-│-- requirements.txt
-│-- README.md
-│-- test_data.csv           # Stratified sample of test set (1,000 rows)
-│-- model/
-│   │-- logistic_regression.pkl
-│   │-- decision_tree.pkl
-│   │-- knn.pkl
-│   │-- naive_bayes.pkl
-│   │-- random_forest_ensemble.pkl
-│   │-- scaler.pkl
-│   │-- feature_names.json
-│   │-- categorical_cols.json
-│   │-- numeric_cols.json
-│   │-- comparison_table.csv
-│-- ML_Assignment2_Model_Training.ipynb   # Full training pipeline (run in Colab)
-```
-
 ## Live App
 
 `https://mlassignmentii-nagz6bvo59lu9euu2qzpkm.streamlit.app/`
 
 ## BITS Virtual Lab Screenshot
 
-<!-- Insert screenshot proving execution on BITS Virtual Lab -->
+![alt text](VirtualLab_ML.png)
+![alt text](VirtualLab_ML2.png)
